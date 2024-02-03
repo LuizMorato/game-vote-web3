@@ -32,7 +32,6 @@ This Dapp uses Web3 to interact with the Ethereum blockchain. Web3 is a library 
 
 LuizTools is a Brazilian developer and entrepreneur who is passionate about web3 technologies.
 He is the founder of the Web3Week event, which is a week-long series of workshops, talks, and hackathons focused on web3 development.
-LuizTools has made significant contributions to the CrypTwitter project, and his help is greatly appreciated.
 
 - Web3Week
 
