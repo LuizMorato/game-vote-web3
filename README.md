@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Simple Dapp: NINTENDO vs SEGA Voting
 
-## Getting Started
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D22AQH5KSniYvv2XQ/feedshare-shrink_800/0/1691866976720?e=2147483647&v=beta&t=lZFJAMie7RliyvA0MumQs4seNnDSENa6ECTUErPpXb4" alt="Login Page">
+<p/>  
+<p align="center">Login Page</p>
 
-First, run the development server:
+<p align="center">
+<img src="https://github.com/LuizMorato/cryptwitter-web3/assets/109006053/ae6b8ab3-234e-4dcb-a3d9-aa803bb7a937" alt="Main Screen">
+</p>
+<p align="center">Main Screen</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Overview
+This is a simple Dapp that allows users to vote between NINTENDO and SEGA. It is built on the Ethereum blockchain and uses Web3 to interact with the blockchain.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# Web3:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+This Dapp uses Web3 to interact with the Ethereum blockchain. Web3 is a library that allows developers to build decentralized applications. It provides a way to connect to the blockchain, send transactions, and interact with smart contracts.
 
-## Learn More
+# Technologies Used ✅
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=next" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=solidity" />
+</a>
 
-To learn more about Next.js, take a look at the following resources:
+## Credits
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- LuizTools
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+LuizTools is a Brazilian developer and entrepreneur who is passionate about web3 technologies.
+He is the founder of the Web3Week event, which is a week-long series of workshops, talks, and hackathons focused on web3 development.
+LuizTools has made significant contributions to the CrypTwitter project, and his help is greatly appreciated.
 
-## Deploy on Vercel
+- Web3Week
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Web3Week is a week-long event that focuses on web3 development.
+The event features workshops, talks, and hackathons that are designed to teach people about web3 technologies.
+Web3Week is a great resource for anyone who wants to learn more about web3 and how to build decentralized applications.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# License:
+
+GameVoteWeb3 is licensed under the MIT license.
