@@ -1,12 +1,12 @@
 # Simple Dapp: NINTENDO vs SEGA Voting
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D22AQH5KSniYvv2XQ/feedshare-shrink_800/0/1691866976720?e=2147483647&v=beta&t=lZFJAMie7RliyvA0MumQs4seNnDSENa6ECTUErPpXb4" alt="Login Page">
+  <img src="https://github.com/LuizMorato/game-vote-web3/assets/109006053/b1281183-4d41-4c33-adbf-c92f8e00eac6" alt="Login Page">
 <p/>  
 <p align="center">Login Page</p>
 
 <p align="center">
-<img src="https://github.com/LuizMorato/cryptwitter-web3/assets/109006053/ae6b8ab3-234e-4dcb-a3d9-aa803bb7a937" alt="Main Screen">
+<img src="https://github.com/LuizMorato/game-vote-web3/assets/109006053/a0d2d3ef-ea83-4d78-b1dd-061db0c26500" alt="Main Screen">
 </p>
 <p align="center">Main Screen</p>
 
