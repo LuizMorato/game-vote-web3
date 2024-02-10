@@ -26,6 +26,10 @@ This Dapp uses Web3 to interact with the Ethereum blockchain. Web3 is a library 
     <img src="https://skillicons.dev/icons?i=solidity" />
 </a>
 
+## Usage
+
+- Open [site](https://game-vote-web3.vercel.app/) in your web browser.
+
 ## Credits
 
 - LuizTools
